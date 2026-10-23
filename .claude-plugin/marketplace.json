@@ -1,0 +1,14 @@
+{
+  "name": "pantheons",
+  "owner": {
+    "name": "Egor Gladkov (Dezodemius)",
+    "url": "https://github.com/Dezodemius"
+  },
+  "plugins": [
+    {
+      "name": "pantheons",
+      "source": "./",
+      "description": "Справочник богов трёх пантеонов для D&D: скандинавский (асы и ваны), славянский и греческий (олимпийцы)."
+    }
+  ]
+}

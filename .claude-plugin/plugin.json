@@ -1,0 +1,17 @@
+{
+  "name": "pantheons",
+  "description": "Справочник богов трёх пантеонов для D&D: скандинавский (асы и ваны), славянский и греческий (олимпийцы).",
+  "author": {
+    "name": "Egor Gladkov (Dezodemius)",
+    "url": "https://github.com/Dezodemius"
+  },
+  "homepage": "https://github.com/Dezodemius/pantheons",
+  "repository": "https://github.com/Dezodemius/pantheons",
+  "license": "Apache-2.0",
+  "keywords": [
+    "dnd",
+    "dnd5e",
+    "ttrpg",
+    "agent-skill"
+  ]
+}
